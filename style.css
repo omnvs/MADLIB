@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica", Sans-Serif;
+    font-size: 5vw;
+
+}
+
+#nounSpan{
+    text-decoration: underline;
+    color: red;
+
+}
+
+#adjectiveSpan{
+    text-decoration: underline;
+    color: red;
+
+}
+
+#verbSpan{
+    text-decoration: underline;
+    color: red;
+
+}
